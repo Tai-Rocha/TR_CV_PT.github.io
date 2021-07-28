@@ -9,7 +9,11 @@ output:
   pagedown::html_resume:
     css: ['dd_cv.css', 'custom.css','resume']
     self_contained: true
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
+
 ```{r metathis, echo=FALSE}
 library(metathis)
 meta() %>%
@@ -30,15 +34,17 @@ meta() %>%
     twitter_creator = "@Tai_Rocha_"
   )
 ```
+
 <!-- inicio academic icons -->
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <!-- final academic icons -->
 
- 
 <!-- inicio font awesome -->
-<script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
 
- 
+```{=html}
+<script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
+```
 <!-- final font awesome -->
 
 ```{r, include=FALSE}
@@ -58,7 +64,6 @@ CV$entries <- CV$entries %>% dplyr::filter(in_resume == TRUE)
 
 ```
 
-
 ```{r}
 # When in pdf export mode the little dots are unaligned, so fix that with some conditional CSS.
 if(params$pdf_mode) {
@@ -71,8 +76,7 @@ if(params$pdf_mode) {
 }
 ```
 
-Aside
-================================================================================
+# Aside
 
 ```{r, out.width="70%", fig.align='center'}
 knitr::include_graphics("images/CV_profile.jpg")
@@ -89,27 +93,29 @@ knitr::include_graphics("images/CV_profile.jpg")
 }
 ```
 
-Contato {#contacto}
---------------------------------------------------------------------------------
+## Contato {#contacto}
 
-<i class="far fa-envelope"></i> taina013@gmail.com
+<i class="far fa-envelope"></i>
+[taina013\@gmail.com](mailto:taina013@gmail.com){.email}
 
 <i class="fa fa-github"></i> [Github](https://github.com/Tai-Rocha)
 
-<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0001-6874-2447)
+<i class="fab fa-orcid"></i>
+[ORCID](https://orcid.org/0000-0001-6874-2447)
 
 <!-- <i class="fas fa-eye"></i> [Lattes](http://lattes.cnpq.br/3678449749062447)  -->
 
-<i class="fab fa-researchgate"></i> [Researchgate](https://www.researchgate.net/profile/Taina-Rocha-3) 
+<i class="fab fa-researchgate"></i>
+[Researchgate](https://www.researchgate.net/profile/Taina-Rocha-3)
 
-<i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/tain%C3%A1-rocha-93237a77/) 
+<i class="fab fa-linkedin"></i>
+[Linkedin](https://www.linkedin.com/in/tain%C3%A1-rocha-93237a77/)
 
 <i class="fas fa-blog"></i> [Website](https://github.com/Tai-Rocha)
 
 <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/Tai_Rocha_)
 
-Competências {#competências}
---------------------------------------------------------------------------------
+## Competências {#competências}
 
 <i class="fab fa-r-project"></i> `R`
 
@@ -123,37 +129,40 @@ Competências {#competências}
 knitr::include_graphics("images/TeX.png")
 ```
 
-<i class="fa fa-linux" aria-hidden="true"></i>
- `Linux OS`
- 
-<i class="fa fa-desktop" aria-hidden="true"></i>
- `Máquinas virtuais`
- 
+<i class="fa fa-linux" aria-hidden="true"></i> `Linux OS`
+
+<i class="fa fa-desktop" aria-hidden="true"></i> `Máquinas virtuais`
+
 ```{r echo=FALSE, out.width="13%"}
 knitr::include_graphics("images/QGIS.png")
-``` 
+```
+
 `GIS`
 
 ```{r echo=FALSE, out.width="20%"}
 knitr::include_graphics("images/ARCGIS.png")
-``` 
+```
 
-Main
-================================================================================
+# Main
 
-Tainá Rocha {#title}
---------------------------------------------------------------------------------
+## Tainá Rocha {#title}
 
-<div style="text-align: justify"> Sou pesquisadora dos padrões de distribuição da biodiversidade, com enfoque nos impactos de mudanças globais (mudanças climáticas e de uso e cobertura do solo).
-Meus interesses e trabalhos recentes são: __1.__ Análises de dados climáticos e dados de
-uso e cobertura do solo em diferentes cenários de mudanças climáticas, __2.__ Análises
-espaciais da diversidade de espécies (diversidade alfa e beta), __3.__ Modelos de nicho
-ecológico / modelos de distribuição de espécies e outras análises de nicho para avaliar os
-impactos das mudanças globais na biodiversidade, __4.__ Padrões biogeográficos e história
-evolutiva nos neotrópicos. Uso ferramentas, bases dados e plataformas de código aberto. Tenho interesse em boas práticas da ciência aberta, bons fluxos de trabalho e reprodutibilidade. Tenho interesse em boas práticas da ciência aberta, bons fluxos de trabalho, reprodutibilidade e princípior FAIR. </div>
+::: {style="text-align: justify"}
+Sou pesquisadora dos padrões de distribuição da biodiversidade, com
+enfoque nos impactos de mudanças globais (mudanças climáticas e de uso e
+cobertura do solo). Meus interesses e trabalhos recentes são: **1.**
+Análises de dados climáticos e dados de uso e cobertura do solo em
+diferentes cenários de mudanças climáticas, **2.** Análises espaciais da
+diversidade de espécies (diversidade alfa e beta), **3.** Modelos de
+nicho ecológico / modelos de distribuição de espécies e outras análises
+de nicho para avaliar os impactos das mudanças globais na
+biodiversidade, **4.** Padrões biogeográficos e história evolutiva nos
+neotrópicos. Uso ferramentas de código aberto e tenho interesse em boas práticas da
+ciência aberta, reprodutibilidade e princípios FAIR.
+:::
 
-EDUCAÇÃO {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+## EDUCAÇÃO {data-icon="user-graduate" data-concise="true"}
+
 ### Doutorado em Zoologia
 
 Museu Paraense Emílio Goeldi
@@ -162,7 +171,7 @@ PA- Brasil
 
 2017
 
-### Mestrado em biologia ambiental
+### Mestrado em Biologia Ambiental
 
 Universidade Federal do Pará
 
@@ -170,21 +179,32 @@ PA- Brasil
 
 2012
 
-EDUCAÇÃO COMPLEMENTAR {data-icon=book}
---------------------------------------------------------------------------------
+### Licenciatura Plena em Ciências Biológicas
+
+Universidade Federal do Pará
+
+Bragança, PA- Brasil
+
+2012
+
+## EDUCAÇÃO COMPLEMENTAR {data-icon="book"}
 
 ### Flexdashboard: Painéis interativos utilizando R
 
-[<i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-goiania/events/277628997/) Analisar. Compartilhar. Reproduzir. Seus dados contam uma história. Conte com R Markdown & Flexdashboard. Transforme suas análises em documentos, relatórios, apresentações e painéis de alta qualidade.
+[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-goiania/events/277628997/)
+Analisar. Compartilhar. Reproduzir. Seus dados contam uma história.
+Conte com R Markdown & Flexdashboard. Transforme suas análises em
+documentos, relatórios, apresentações e painéis de alta qualidade.
 
 Online
 
 2021
 
-
 ### Manejo de tablas con {dplyr}
 
-[<i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/277554926/) Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otros más para el manejo de tablas.
+[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/277554926/)
+Repasaremos las principales funciones de dplyr y utilizaremos
+inner_join, left_join, full-join y otros más para el manejo de tablas.
 
 Online
 
@@ -192,90 +212,162 @@ Online
 
 ### Expresiones regulares para la limpieza y transformación de datos
 
-[<i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/276426201/) Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como "regex"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.
+[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/276426201/)
+Este taller tiene por objetivo que sus participantes se familiaricen con
+el uso de expresiones regulares (conocidas también como "regex").
+Específicamente, abordaremos el potencial que tienen como parte del
+proceso de limpieza y transformación de datos usando paquetes del
+Tidyverse.
 
 Online
 
 2021
 
-
 ### Open Life Science program
 
-[OLS-2](https://openlifesci.org/ols-2). Training for early stage researchers and young leaders interested in furthering their Open Science skills.
-
-Online 
-
-2020
-
-
-### Escrevendo manuscritos acadêmicos usando RMarkdown
-
-[<i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/) Esta oficina vai mostrar os diferentes passos e ferramentas para escrever manuscritos acadêmicos ou relatórios técnicos de forma automatizada e reprodutível usando R e rmarkdown.
+[OLS-2](https://openlifesci.org/ols-2). Training for early stage
+researchers and young leaders interested in furthering their Open
+Science skills.
 
 Online
 
 2020
 
+### Escrevendo manuscritos acadêmicos usando RMarkdown
 
-Experiência profissional | Pesquisa {data-icon=laptop}
---------------------------------------------------------------------------------
+[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
+Esta oficina vai mostrar os diferentes passos e ferramentas para
+escrever manuscritos acadêmicos ou relatórios técnicos de forma
+automatizada e reprodutível usando R e rmarkdown.
+
+Online
+
+2020
+
+## Experiência profissional | Pesquisa {data-icon="laptop"}
 
 ### Floresta nos diferentes cenários de "caminhos socioeconômicos compartilhados"(SSPs)- Pesquisa independente
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Forest_Scenarios.github.io) Avaliação quantitativa da categoria de florestas da base de dados [GCAM-Demeter](https://data.pnnl.gov/dataset/13192), que atualmente disponibiliza dados globais de uso e cobertura do solo com a maior resolução espacial para projeções futuras (2015 a 2100)
+
+[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Forest_Scenarios.github.io)
+Avaliação quantitativa da categoria de florestas da base de dados
+[GCAM-Demeter](https://data.pnnl.gov/dataset/13192), que atualmente
+disponibiliza dados globais de uso e cobertura do solo com a maior
+resolução espacial para projeções futuras (2015 a 2100)
 
 Home officie
 
 2021
 
+### Pequisadora de pós-doutorado pelo programa [Modelagem do Sistema Terrestre](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/programa-de-desenvolvimento-de-modelagem-do-sistema-terrestre) |Supervisão: [Marinez F.Siqueira](https://scholar.google.com.br/citations?user=Faiq46QAAAAJ&hl=en)
 
-### Pequisadora de pós-doutorado|Supervisão: [Marinez F.Siqueira](https://scholar.google.com.br/citations?user=Faiq46QAAAAJ&hl=en)
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Caatinga_Dry_Forest.github.io) Diversidade na composição de espécies (beta diversidade) na Caatinga de cristalino<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/S_rubricaulis_bryophytes) Variação climática na distribuição de Syzygiella rubricaulis (Briófitas)<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Bryophyte-Amazon-mountains) Primeiro estudo de diversidade de briófitas das montanhas da Amazônia brasileira<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/ENM_Dimorphandra-wilsonii-Rizzini) Modelos de nicho ecológico e de distribuição da espécies Dimorphandra wilsonii(Fabaceae) apresentado no plano de atividades trianuais do Brazilian Plant Red List Authority membro do Plant Conservation Commitee entre 2017-2020 e do Species Survival Comission da International Union for Conservation of Nature (IUCN)<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Ferns-and-lycophytes) Diversidade de samambaias e licófitas da Floresta da Tijuca<br>
-<br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Caatinga_Dry_Forest.github.io)
+Diversidade na composição de espécies (beta diversidade) na Caatinga de
+cristalino<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/S_rubricaulis_bryophytes)
+Variação climática na distribuição de Syzygiella rubricaulis
+(Briófitas)<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Bryophyte-Amazon-mountains)
+Primeiro estudo de diversidade de briófitas das montanhas da Amazônia
+brasileira<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/ENM_Dimorphandra-wilsonii-Rizzini)
+Modelos de nicho ecológico e de distribuição da espécies Dimorphandra
+wilsonii(Fabaceae) apresentado no plano de atividades trianuais do
+Brazilian Plant Red List Authority membro do Plant Conservation Commitee
+entre 2017-2020 e do Species Survival Comission da International Union
+for Conservation of Nature (IUCN)<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Ferns-and-lycophytes)
+Diversidade de samambaias e licófitas da Floresta da Tijuca<br> <br>
 
-JBRJ, Brasil
+RJ, Brasil
 
 2019 - 2021
 
+### Pequisadora de desenvolvimento tecnólogico e inovação pelo [INCT EECBio](https://www.eecbio.ufg.br/) | Supervisão: [Mariana M. Vale](https://scholar.google.com/citations?user=bQAx5E0AAAAJ&hl=en)
 
-### Pequisadora de desenvolvimento tecnólogico e inovação | Supervisão: [Mariana M. Vale](https://scholar.google.com/citations?user=bQAx5E0AAAAJ&hl=en)
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/LUH2_Data) Global land-use and land-cover data for ecologists: historical, current and future scenarios<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Carpornis_melanocephala) Modelos de nicho para espécie Carpornis melanocephala (Passeriformes: Cotingidae) no estado do Rio de Janeiro State,Brazil<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Vole) Modelos de nicho para espécie Carpornis melanocephala (Passeriformes: Cotingidae) no estado do Rio de Janeiro State,Brazil<br>
-<br>
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Disjoint_birds_AM_AF) Biogeografia e história evolutiva nos neotrópicos: conexões entre Amazônia e Mata Atlântica ao longo do tempo usando modelos de nicho de aves com distribuição disjunta para testar hipóteses dos possíveis caminhos de conexões<br>
-<br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/LUH2_Data)
+Global land-use and land-cover data for ecologists: historical, current
+and future scenarios<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Carpornis_melanocephala)
+Modelos de nicho para espécie Carpornis melanocephala (Passeriformes:
+Cotingidae) no estado do Rio de Janeiro State,Brazil<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Vole)
+Modelos de nicho para espécie Carpornis melanocephala (Passeriformes:
+Cotingidae) no estado do Rio de Janeiro State,Brazil<br> <br>
+[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Disjoint_birds_AM_AF)
+Biogeografia e história evolutiva nos neotrópicos: conexões entre
+Amazônia e Mata Atlântica ao longo do tempo usando modelos de nicho de
+aves com distribuição disjunta para testar hipóteses dos possíveis
+caminhos de conexões<br> <br>
 
-UFRJ- Brasil
+RJ- Brasil
 
 2017 - 2019
 
+## EXPERIÊNCIA com Ensino {data-icon="chalkboard-teacher"}
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
+### Professora assistente| Escola Nacional de Botânica Tropical
 
-::: aside
-```{r}
-CV %<>% print_text_block('teaching_experience_aside')
-```
-:::
+Modelos de nicho ecológico, teoria e prática. 40 h | [Webpage do curso](https://classroom.google.com/u/0/r/MTI2NTU0NzQ0Nzcw/sort-last-name)  
+<br> 
 
-```{r}
-CV %<>% print_section('teaching_positions')
-```
+RJ, Brasil
+
+2020
 
 
-Selected Publications {data-icon=file-text}
+### Professora assistente| Pontifícia Universidade Católica do Rio de Janeiro
+
+Modelos de nicho ecológico, teoria e prática. 40 h 
+<br> 
+Ferramentas públicas para análises espaciais. 40 h 
+
+RJ, Brasil
+
+2019 - 2020
+
+
+### Professora convidada | Universidade Veiga de Almeida
+
+Modelos de nicho ecológico e distribuição potencial de espécies aplicados para
+estudos biogeográficos. 3 h 
+<br> 
+Modelos de nicho ecológico usando o pacote [modelR](https://github.com/Model-R/modleR). 40 h 
+
+RJ, Brasil
+
+2018 - 2019
+
+### Professora convidada | Universidade Estácio de Sá
+
+Explorando dados bióticos e abióticos para modelos de nicho ecológicos sob diferentes cenários de mudanças climáticas. 3 h
+
+RJ, Brasil
+
+2018 - 2019
+
+
+### Professora convidada | Universidade Federal Rural da Amazônia 
+
+Introdução ao Sistema de Informação Geográfica (SIG). 12 h
+<br> 
+Dados para modelos de nicho ecológico. 12 h
+
+PA, Brasil
+
+2017 - 2018
+
+
+### Professora | [Dinamica Natural](https://dinamicanatural.wixsite.com/dinamicanatural?fbclid=IwAR0wlHd4RJfVTIXYILMmaQILdbT6JdWfq1S-kpNH1mbinJ_EMrsvMe5xpVc)
+
+Professora de Ciências para Ensino fundamental e médio
+
+RJ, Brasil
+
+2015 - 2017
+
+
+
+Publicações {data-icon=file-text}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -285,24 +377,89 @@ CV %<>% print_section('academic_articles')
 <br>
 <br>
 
-Member of Examination Committee  {data-icon=users} 
+
+Revisão de Periódicos {data-icon="file-contract"}
 --------------------------------------------------------------------------------
 
-<!-- ```{r} -->
-<!-- #CV %<>% print_section('committee') -->
-<!-- ``` -->
+### [Frontiers in Ecology and Evolution](https://www.frontiersin.org/journals/ecology-and-evolution)
+
+Uma revisão
+
+Online
+
+2021
+
+### [Perspectives in Ecology and Conservation](https://www.journals.elsevier.com/perspectives-in-ecology-and-conservation)
+
+Duas revisões
+
+Online
+
+2020 - 2021
+
+### [Oecologia Australis](https://revistas.ufrj.br/index.php/oa). 
+
+Três revisões 
+
+Online
+
+2019 - 2020
+
+
+Orientações {data-icon=user-friends} 
+--------------------------------------------------------------------------------
+
+### Co-orientadora de iniciação científica
+
+"Diversidade beta do gradiente altitudinal na região serrana do Rio de Janeiro". Discente: Felipe Meira. Orientadora: Marinez Ferreira de Siqueira. Instituição: PUC-Rio
+
+RJ, Brasil
+
+2020 - atual
+
+
+### Supervisão de curso técnico em Sistema de informação geográfica (SIG)
+
+Discente: Tainá Cunha Udine Bernardino. Instituição: Colégio Pedro II  e UFRJ
+
+RJ, Brasil
+
+2019
+
+### Supervisão de curso técnico em Sistema de informação geográfica (SIG)
+
+Discente: João Pedro Sousa Cerqueira Cruz. Instituição: Colégio Pedro II  e UFRJ 
+
+RJ, Brasil
+
+2019
+
+### Co-orientadora de iniciação científica
+
+"Influência do esforço amostral de coleta na quantificação da riqueza de vertebrados terrestres na Mata Atlantica". Discente: Caroline Vital da Solidade. Orientadora: Mariana Moncassim Vale. Instituição: UFRJ
+
+RJ, Brasil
+
+2018
+
+
+Participação em bancas {data-icon=users} 
+--------------------------------------------------------------------------------
+
+
 ### Wallacean knowledge shortfall of mammals inthe Central Corridor of the Atlantic Forest
 
-**Final undergraduate committee**. Student: Inês Motta Comarella. Advisor: Francisco Candido Cardoso Barreto. Institution: UFES
+**Trabalho de Conclusão de Curso de Graduação**. Discente: Inês Motta Comarella.
+Orientador: Francisco Candido Cardoso Barreto. Instituição: UFES
 
 ES, Brazil
 
 2021
 
+### Impactos no comportamento alimentar de aves no ambiente urbano, semi-urbano e rural no município de Capanema-PA
 
-### Impacts on the food behavior of birds in the urban, semi-urban and rural environment in the municipal of Capanema, Pará
-
-**Final undergraduate committee**. Student: Luana Gabriela Costa Bezerra. Advisor: Breno Barros. Institution: UFRA
+**Trabalho de Conclusão de Curso de Graduação**. Discente: Luana Gabriela Costa Bezerra.
+Orientador: Breno Barros. Instituição: UFRA
 
 PA, Brazil
 
@@ -310,96 +467,131 @@ PA, Brazil
 
 ### Modeling species dis-tribution of plant species as tool for assessing the impacts of climate changes andprogress of Sustainable Development Goals (SDGs) 13 and 15 in Caatinga biome
 
-**Master’s qualifying examination**. Student: Lucas Peixoto Teixeira. Advisor: Marcelo Freire Moro. Institution: UFC
+**Qualificação de Mestrado**. Discente: Lucas Peixoto Teixeira.
+Orientador: Marcelo Freire Moro. Instituição: UFC
 
 CE, Brazil
 
 2021
 
+### Estratégias para conservação de espécies endêmicas e ameaçadas: Hindsia glabra K.Schum E Aosa uleana (Urb.Gilg) Weigend
 
-### Strategies for conservationof endemic and threatened species: Hindsia glabra K.Schum E Aosa uleana (Urb.Gilg) Weigend
-
-**Master’s project monitoring committee**. Student: Bárbara Piovani Luz Aieta Afonso.  Supervisor: Marinez Ferreira de Siqueira. Institution: ENBT/JBRJ
+**Avaliação de projeto de mestrado**. Discente: Bárbara Piovani Luz Aieta Afonso. Orientadora: Marinez Ferreira de Siqueira. Instituição: ENBT/JBRJ
 
 RJ, Brazil
 
 2020
 
-### Seabird habitat use and its association offoraging with Guiana dolphin (Sotalia guianensis) in Sepetiba Bay (2018).
+### Uso do habitat de aves marinhas e sua associação de forrageamento com boto-cinza (Sotalia guianensis) na Baía de Sepetiba, Rio de Janeiro.
 
-**Undergraduate monitoring committee**. Student:Leonardo Gomes Pacheco de Sá. Advisor: Maria Alice dos Santos Alves. Co-advisor: Rodrigo Hipolito Tardin Oliveira. Institution: UFRJ
+**Avaliação de projetos em ecologia do curso de ciências biológias**. Discente:Leonardo Gomes Pacheco
+de Sá. Orientadora: Maria Alice dos Santos Alves. Co-Orientador: Rodrigo Hipolito Tardin Oliveira. Instituição: UFRJ
 
 RJ, Brazil
 
 2018
 
 
-
-Selected Talks & Scientific communication  {data-icon=bullhorn}
+Palestras & Divulgação científica {data-icon="bullhorn"}
 --------------------------------------------------------------------------------
-::: aside
-```{r}
-CV %<>% print_text_block('data_science_writing_aside')
-```
+
+
+::: {.aside}
+Recentemente criei um [blog](https://tainaweb-en.netlify.app/) com objetivo de compartilhar diferentes conteúdos sobre ciência, desde divulgação científica  até tutoriais.:::
 :::
 
 <!-- ```{r} -->
+
 <!-- CV %<>% print_section('talks') -->
+
 <!-- ``` -->
 
-### Global land-use and land-cover data: historical, current and future scenarios 
-Final presentation in [OLS-2](https://openlifesci.org/ols-2/projects-participants/#participants)|[Slides](https://tai-rocha.github.io/OLS_2_Tai-Rocha.github.io/#1)
+### Global land-use and land-cover data: historical, current and future scenarios
 
-Online 
+Apresentação no programa [OLS-2](https://openlifesci.org/ols-2/projects-participants/#participants)\|[Slides](https://tai-rocha.github.io/OLS_2_Tai-Rocha.github.io/#1)
+
+Online
 
 2020
 
 
+### Ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo
 
-Selected Events  {data-icon=calendar-check-o}
+Curadora da semana para o página de divulgação científica [Biodiversidade em Foco](https://twitter.com/biodivfoco?lang=en) | O conteúdo compartilhado está disponível neste [site](https://tai-rocha.github.io/Curadoria_Biodiversidade_em_Foco.github.io/) 
+
+Online
+
+2020
+
+### Forum of Rede Nacional de Ensino e Pesquisa
+
+[RNP 2019](https://www.rnp.br/en/news/challenges-digital-transformation-teaching-and-research-will-lead-debates-2019-rnp-forum). Conectando dados e experiências: Biodiversidade, Tecnologias da Informação e Comunicação no Brasil | [Slides](https://tai-rocha.github.io/Talk_Slides_RNP_2019.github.io/#1)
+
+DF, Brazil
+
+2019
+
+
+Eventos {data-icon="calendar-check-o"}
 --------------------------------------------------------------------------------
 
 <!-- ```{r} -->
+
 <!-- CV %<>% print_section('events') -->
+
 <!-- ``` -->
 
 ### V International Seminar on Statistics with R
 
-[V SER](http://ser.uff.br/) event was recognized by the R Foundation (2018) for its pioneering in Latin America in bringing together an expressive number of R users| Participation as a listener.
+[V SER](http://ser.uff.br/) event was recognized by the R Foundation
+(2018) for its pioneering in Latin America in bringing together an
+expressive number of R users\| Participation as a listener.
 
 Online
 
 2021
 
-
-
 ### Forum of Rede Nacional de Ensino e Pesquisa
 
-[RNP 2019](https://www.rnp.br/en/news/challenges-digital-transformation-teaching-and-research-will-lead-debates-2019-rnp-forum). Challenges of digital transformation in teaching and research will lead debates at 2019 RNP Forum| Participation as Guest speaker.
+[RNP
+2019](https://www.rnp.br/en/news/challenges-digital-transformation-teaching-and-research-will-lead-debates-2019-rnp-forum).
+Challenges of digital transformation in teaching and research will lead
+debates at 2019 RNP Forum | Participation as Guest speaker.
 
-DF, Brazil 
+DF, Brazil
 
 2019
 
 
-<!-- <br> -->
-<!-- <br> -->
+### Workshop [Resgate Evolutivo](https://www.eecbio.ufg.br/p/22558-oficinas-de-pesquisa-workshops).
+
+Neste workshop foram discutidos: 1) o conceito de resgate evolutivo e os modelos teóricos em genética evolutiva 2) integração desses modelos teóricos com as técnicas de modelagem de nicho ecológico, em um contexto de mudança climáticas e alterações antrópicas da paisagem; 3) suas implicações para conservação da diversidade diante dessas mudanças, em diferentes escalas espaciais. Foram implementadas análises para algumas espécies de anfíbios, como organismos-modelo, e discutidas as possibilidades de expandir essas análises para uma escala global, e definidos diversos subprojetos a serem realizados nos próximos anos neste tema.
+
+GO, Brazil
+
+2018
 
 
+<!-- <br> -->
+
+<!-- <br> -->
 
 <!-- ```{r} -->
+
 <!-- CV %<>% print_links() -->
+
 <!-- ``` -->
 
+::: {.aside}
+## Disclaimer {#disclaimer}
 
-::: aside
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+This resume was made with the R packages
+[**pagedown**](https://github.com/rstudio/pagedown) and
+[**datadrivencv**](http://nickstrayer.me/datadrivencv/index.html).
 
-This resume was made with the R packages [**pagedown**](https://github.com/rstudio/pagedown) and [**datadrivencv**](http://nickstrayer.me/datadrivencv/index.html).
+Code available on <i class="fa fa-github"></i>
+[GitHub](https://github.com/beatrizmilz/resume).
 
-Code available on <i class="fa fa-github"></i>  [GitHub](https://github.com/beatrizmilz/resume). 
-
-Last updated on `r Sys.Date()`. The most recent version of this resume is [available here](https://beatrizmilz.github.io/resume/index.pdf). 
+Last updated on `r Sys.Date()`. The most recent version of this resume
+is [available here](https://beatrizmilz.github.io/resume/index.pdf).
 :::
-
