@@ -1,6 +1,7 @@
-# TR_Resume.github.io
+### Este é o repositório com os dig«odigos e links para meu currículo em português.<br/>
 
-### This a repo for my Resume
-[Markdown version available here](https://tai-rocha.github.io/TR_CV_PT.github.io/) <br/>
+#### Este currículo foi feito com os pacotes R [**pagedown**](https://github.com/rstudio/pagedown) e
+[**datadrivencv**](http://nickstrayer.me/datadrivencv/index.html).
 
-[Latex version available here](https://nbviewer.jupyter.org/github/Tai-Rocha/TR_Resume.github.io/blob/main/TR_cv_EN_version.pdf)
+[Link de acesso](https://tai-rocha.github.io/TR_CV_PT.github.io/) <br/>
+
