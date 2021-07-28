@@ -220,7 +220,7 @@ Online
 
 ::: {.aside}
 
-```{r echo=FALSE, out.width="80%"}
+```{r echo=FALSE, out.width="78%"}
 knitr::include_graphics("images/Competncias.png")
 ```
 
