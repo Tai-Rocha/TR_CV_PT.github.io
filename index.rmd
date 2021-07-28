@@ -580,7 +580,7 @@ Este currículo foi feito com os pacotes R
 [**datadrivencv**](http://nickstrayer.me/datadrivencv/index.html).
 
 Código disponível no <i class="fa fa-github"></i>
-[GitHub](https://github.com/beatrizmilz/resume).
+[GitHub](https://github.com/Tai-Rocha/TR_CV_PT.github.io).
 
-Última atualização em `r Sys.Date()`. A versão mais recente está [disponível aqui](https://beatrizmilz.github.io/resume/index.pdf).
+Última atualização em `r Sys.Date()`. A versão mais recente está [disponível aqui](https://github.com/Tai-Rocha/TR_CV_PT.github.io/blob/main/TR_cv_pt.pdf).
 :::
