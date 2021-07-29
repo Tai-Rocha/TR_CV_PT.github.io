@@ -165,7 +165,7 @@ Bragança, PA- Brasil
 
 ### Flexdashboard: Painéis interativos utilizando R
 
-[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-goiania/events/277628997/)
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-goiania/events/277628997/)
 Analisar. Compartilhar. Reproduzir. Seus dados contam uma história.
 Conte com R Markdown & Flexdashboard. Transforme suas análises em
 documentos, relatórios, apresentações e painéis de alta qualidade.
@@ -176,7 +176,7 @@ Online
 
 ### Manejo de tablas con {dplyr}
 
-[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/277554926/)
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/277554926/)
 Repasaremos las principales funciones de dplyr y utilizaremos
 inner_join, left_join, full-join y otros más para el manejo de tablas.
 
@@ -186,7 +186,7 @@ Online
 
 ### Expresiones regulares para la limpieza y transformación de datos
 
-[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/276426201/)
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/276426201/)
 Este taller tiene por objetivo que sus participantes se familiaricen con
 el uso de expresiones regulares (conocidas también como "regex").
 Específicamente, abordaremos el potencial que tienen como parte del
@@ -209,7 +209,7 @@ Online
 
 ### Escrevendo manuscritos acadêmicos usando RMarkdown
 
-[Link <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
 Esta oficina vai mostrar os diferentes passos e ferramentas para
 escrever manuscritos acadêmicos ou relatórios técnicos de forma
 automatizada e reprodutível usando R e rmarkdown.
@@ -254,9 +254,17 @@ knitr::include_graphics("images/ARCGIS.png")
 
 ## Experiência profissional | Pesquisa {data-icon="laptop"}
 
+### United Nations Volunteers <br> [UN Online Volunteers](https://www.onlinevolunteering.org/en)
+
+Research Support for an Automated Analysis of Sustainable Development Goals | [Webpage <i class="fa fa-google"></i>](https://www.osdg.ai/)
+
+United Nations
+
+2021 - Present
+
 ### Floresta nos diferentes cenários de "caminhos socioeconômicos compartilhados"(SSPs)- Pesquisa independente
 
-[<i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Forest_Scenarios.github.io)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Forest_Scenarios.github.io)
 Avaliação quantitativa da categoria de florestas da base de dados
 [GCAM-Demeter](https://data.pnnl.gov/dataset/13192), que atualmente
 disponibiliza dados globais de uso e cobertura do solo com a maior
@@ -264,26 +272,26 @@ resolução espacial para projeções futuras (2015 a 2100)
 
 Home officie
 
-2021
+2021 - Present
 
 ### Pequisadora de pós-doutorado pelo programa [Modelagem do Sistema Terrestre](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/programa-de-desenvolvimento-de-modelagem-do-sistema-terrestre) |Supervisão: [Marinez F.Siqueira](https://scholar.google.com.br/citations?user=Faiq46QAAAAJ&hl=en)
 
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Caatinga_Dry_Forest.github.io)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Caatinga_Dry_Forest.github.io)
 Diversidade na composição de espécies (beta diversidade) na Caatinga de
 cristalino<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/S_rubricaulis_bryophytes)
-Variação climática na distribuição de Syzygiella rubricaulis
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/S_rubricaulis_bryophytes)
+Variação climática na distribuição de *Syzygiella rubricaulis*
 (Briófitas)<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Bryophyte-Amazon-mountains)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Bryophyte-Amazon-mountains)
 Primeiro estudo de diversidade de briófitas das montanhas da Amazônia
 brasileira<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/ENM_Dimorphandra-wilsonii-Rizzini)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/ENM_Dimorphandra-wilsonii-Rizzini)
 Modelos de nicho ecológico e de distribuição da espécies Dimorphandra
 wilsonii(Fabaceae) apresentado no plano de atividades trianuais do
 Brazilian Plant Red List Authority membro do Plant Conservation Commitee
 entre 2017-2020 e do Species Survival Comission da International Union
 for Conservation of Nature (IUCN)<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Ferns-and-lycophytes)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Ferns-and-lycophytes)
 Diversidade de samambaias e licófitas da Floresta da Tijuca<br> <br>
 
 RJ, Brasil
@@ -292,16 +300,16 @@ RJ, Brasil
 
 ### Pequisadora de desenvolvimento tecnólogico e inovação pelo [INCT EECBio](https://www.eecbio.ufg.br/) | Supervisão: [Mariana M. Vale](https://scholar.google.com/citations?user=bQAx5E0AAAAJ&hl=en)
 
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/LUH2_Data)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/LUH2_Data)
 Global land-use and land-cover data for ecologists: historical, current
 and future scenarios<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Carpornis_melanocephala)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Carpornis_melanocephala)
 Modelos de nicho para espécie Carpornis melanocephala (Passeriformes:
 Cotingidae) no estado do Rio de Janeiro State,Brazil<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Vole)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Vole)
 Modelos de nicho para espécie Carpornis melanocephala (Passeriformes:
 Cotingidae) no estado do Rio de Janeiro State,Brazil<br> <br>
-[Link <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Disjoint_birds_AM_AF)
+[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Disjoint_birds_AM_AF)
 Biogeografia e história evolutiva nos neotrópicos: conexões entre
 Amazônia e Mata Atlântica ao longo do tempo usando modelos de nicho de
 aves com distribuição disjunta para testar hipóteses dos possíveis
