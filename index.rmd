@@ -131,7 +131,8 @@ nicho ecológico / modelos de distribuição de espécies e outras análises
 de nicho para avaliar os impactos das mudanças globais na
 biodiversidade, **4.** Padrões biogeográficos e história evolutiva nos
 neotrópicos. Uso ferramentas de código aberto e tenho interesse em boas práticas da
-ciência aberta, reprodutibilidade e princípios FAIR.
+ciência aberta, reprodutibilidade e princípios FAIR. <br>
+[Versão em inglês disponível aqui](https://tai-rocha.github.io/Tai-Rocha_CV.github.io/) 
 :::
 
 ## EDUCAÇÃO {data-icon="user-graduate" data-concise="true"}
@@ -406,7 +407,7 @@ Online
 
 ### [Oecologia Australis](https://revistas.ufrj.br/index.php/oa). 
 
-Três revisões 
+Three revisões 
 
 Online
 
