@@ -89,7 +89,7 @@ knitr::include_graphics("images/CV_profile.jpg")
  if(params$pdf_mode){
   cat("Versão online disponível no link: https://tai-rocha.github.io/TR_CV_PT.github.io/")
   } else {
-  cat("<i class='fas fa-download'></i> [Link para download em PDF](https://github.com/Tai-Rocha/TR_CV_PT.github.io/raw/main/TR_cv_pt.pdf).")
+  cat("<i class='fas fa-download'></i> [CV em PDF](https://github.com/Tai-Rocha/TR_CV_PT.github.io/raw/main/TR_cv_pt.pdf).")
 }
 ```
 
@@ -121,17 +121,7 @@ knitr::include_graphics("images/CV_profile.jpg")
 ## Tainá Rocha {#title}
 
 ::: {style="text-align: justify"}
-Sou pesquisadora dos padrões de distribuição da biodiversidade, com
-enfoque nos impactos de mudanças globais (mudanças climáticas e de uso e
-cobertura do solo). Meus interesses e trabalhos recentes são: **1.**
-Análises de dados climáticos e dados de uso e cobertura do solo em
-diferentes cenários de mudanças climáticas, **2.** Análises espaciais da
-diversidade de espécies (diversidade alfa e beta), **3.** Modelos de
-nicho ecológico / modelos de distribuição de espécies e outras análises
-de nicho para avaliar os impactos das mudanças globais na
-biodiversidade, **4.** Padrões biogeográficos e história evolutiva nos
-neotrópicos. Uso ferramentas de código aberto e tenho interesse em boas práticas da
-ciência aberta, reprodutibilidade e princípios FAIR. <br>
+Sou pesquisadora dos padrões de distribuição da biodiversidade, com enfoque nos impactos de mudanças globais (mudanças climáticas e de uso e cobertura do solo). Meus interesses e trabalhos recentes são: **1.** Análises de dados climáticos e dados de uso e cobertura do solo em diferentes cenários de mudanças climáticas, **2.** Biodiversidade, **3.**Análises espaciais com SIG, **4.** Bioinformática, Linguagem R, Google Earth Engine, etc. Uso ferramentas, bases dados e plataformas de código aberto.Tenho interesse em boas práticas da ciência aberta, bons fluxos de trabalho, reprodutibilidade e princípios FAIR.. <br>
 [Versão em inglês disponível aqui](https://tai-rocha.github.io/Tai-Rocha_CV.github.io/) 
 :::
 
@@ -160,97 +150,6 @@ Universidade Federal do Pará
 Bragança, PA- Brasil
 
 2006 - 2010
-
-## EDUCAÇÃO COMPLEMENTAR {data-icon="book"}
-
-### Flexdashboard: Painéis interativos utilizando R
-
-[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-goiania/events/277628997/)
-Analisar. Compartilhar. Reproduzir. Seus dados contam uma história.
-Conte com R Markdown & Flexdashboard. Transforme suas análises em
-documentos, relatórios, apresentações e painéis de alta qualidade.
-
-Online
-
-2021
-
-### Manejo de tablas con {dplyr}
-
-[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/277554926/)
-Repasaremos las principales funciones de dplyr y utilizaremos
-inner_join, left_join, full-join y otros más para el manejo de tablas.
-
-Online
-
-2021
-
-### Expresiones regulares para la limpieza y transformación de datos
-
-[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/276426201/)
-Este taller tiene por objetivo que sus participantes se familiaricen con
-el uso de expresiones regulares (conocidas también como "regex").
-Específicamente, abordaremos el potencial que tienen como parte del
-proceso de limpieza y transformación de datos usando paquetes del
-Tidyverse.
-
-Online
-
-2021
-
-### Open Life Science program
-
-[OLS-2](https://openlifesci.org/ols-2). Training for early stage
-researchers and young leaders interested in furthering their Open
-Science skills.
-
-Online
-
-2020
-
-### Escrevendo manuscritos acadêmicos usando RMarkdown
-
-[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
-Esta oficina vai mostrar os diferentes passos e ferramentas para
-escrever manuscritos acadêmicos ou relatórios técnicos de forma
-automatizada e reprodutível usando R e rmarkdown.
-
-Online
-
-2020
-
-
-::: {.aside}
-
-```{r echo=FALSE, out.width="70%"}
-knitr::include_graphics("images/Competncias.png")
-```
-
-<i class="fab fa-r-project"></i> `R`
-
-<i class="fas fa-code-branch"></i> `Git`
-
-<i class="fab fa-github"></i> `GitHub`
-
-<i class="fab fa-markdown"></i> `Markdown`
-
-```{r echo=FALSE, out.width="20%"}
-knitr::include_graphics("images/TeX.png")
-```
-
-<i class="fa fa-linux" aria-hidden="true"></i> `Linux OS`
-
-<i class="fa fa-desktop" aria-hidden="true"></i> `Máquinas virtuais`
-
-```{r echo=FALSE, out.width="13%"}
-knitr::include_graphics("images/QGIS.png")
-```
-
-`GIS`
-
-```{r echo=FALSE, out.width="20%"}
-knitr::include_graphics("images/ARCGIS.png")
-```
-:::
 
 ## Experiência profissional | Pesquisa {data-icon="laptop"}
 
@@ -319,69 +218,46 @@ RJ- Brasil
 
 2017 - 2019
 
-## EXPERIÊNCIA com Ensino {data-icon="chalkboard-teacher"}
+::: aside
 
-### Professora assistente| Escola Nacional de Botânica Tropical
+```{r echo=FALSE, out.width="35%"}
+knitr::include_graphics("images/Skills.png")
+``` 
 
-Modelos de nicho ecológico, teoria e prática. 40 h | [Webpage do curso](https://classroom.google.com/u/0/r/MTI2NTU0NzQ0Nzcw/sort-last-name)  
-<br> 
+<i class="fab fa-r-project fa-2x"></i> 
 
-RJ, Brasil
+<i class="fas fa-code-branch fa-2x"></i> `Git`
 
-2020
+<i class="fab fa-github fa-2x"></i> `GitHub`
 
+<i class="fab fa-markdown fa-2x"></i> `Markdown`
 
-### Professora assistente| Pontifícia Universidade Católica do Rio de Janeiro
+<i class="fa fa-linux fa-2x" aria-hidden="true"></i>
+ `Linux OS`
+ 
+<i class="fa fa-desktop fa-2x" aria-hidden="true"></i>
+ `Virtual Machines`
+ 
 
-Modelos de nicho ecológico, teoria e prática. 40 h 
-<br> 
-Ferramentas públicas para análises espaciais. 40 h 
+```{r echo=FALSE, out.width="23%"}
+knitr::include_graphics("images/cloud.png")
+```
+`Cloud Services`
 
-RJ, Brasil
+```{r echo=FALSE, out.width="16%"}
+knitr::include_graphics("images/gee.jpeg")
+``` 
+`Google Earth Engine`
 
-2019 - 2020
+```{r echo=FALSE, out.width="13%"}
+knitr::include_graphics("images/QGIS.png")
+``` 
+`GIS`
 
-
-### Professora convidada | Universidade Veiga de Almeida
-
-Modelos de nicho ecológico e distribuição potencial de espécies aplicados para
-estudos biogeográficos. 3 h 
-<br> 
-Modelos de nicho ecológico usando o pacote [modelR](https://github.com/Model-R/modleR). 40 h 
-
-RJ, Brasil
-
-2018 - 2019
-
-### Professora convidada | Universidade Estácio de Sá
-
-Explorando dados bióticos e abióticos para modelos de nicho ecológicos sob diferentes cenários de mudanças climáticas. 3 h
-
-RJ, Brasil
-
-2018 - 2019
-
-
-### Professora convidada | Universidade Federal Rural da Amazônia 
-
-Introdução ao Sistema de Informação Geográfica (SIG). 12 h
-<br> 
-Dados para modelos de nicho ecológico. 12 h
-
-PA, Brasil
-
-2017 - 2018
-
-
-### Professora | [Dinamica Natural](https://dinamicanatural.wixsite.com/dinamicanatural?fbclid=IwAR0wlHd4RJfVTIXYILMmaQILdbT6JdWfq1S-kpNH1mbinJ_EMrsvMe5xpVc)
-
-Professora de Ciências para Ensino fundamental e médio
-
-RJ, Brasil
-
-2015 - 2017
-
-
+```{r echo=FALSE, out.width="20%"}
+knitr::include_graphics("images/ARCGIS.png")
+``` 
+:::
 
 Publicações {data-icon=file-text}
 --------------------------------------------------------------------------------
@@ -393,13 +269,68 @@ CV %<>% print_section('academic_articles')
 <br>
 <br>
 
+Outros tipos de Publicações {data-icon=file-text}
+--------------------------------------------------------------------------------
+
+### [Forest land under different scenarios of future global change](https://zenodo.org/record/6502865#.YmsP43XMLiE)
+
+Global Dataset
+
+Online
+
+Apr 2022
+
+### Third Report- GREEN STATUS 
+
+GREEN STATUS Activity Progress Report for 10 Cactaceae species 
+
+Online
+
+Dez 2021
+
+### Second Report- GREEN STATUS 
+
+GREEN STATUS Activity Progress Report for 10 Cactaceae species
+
+online
+
+Out 2021
+
+### First Report- GREEN STATUS  
+
+GREEN STATUS Activity Progress Report for 10 Cactaceae species
+
+Online
+
+Set 2021
+
+<br>
+<br>
+<br>
+
 
 Revisão de Periódicos {data-icon="file-contract"}
 --------------------------------------------------------------------------------
 
-### [Frontiers in Ecology and Evolution](https://www.frontiersin.org/journals/ecology-and-evolution)
+### [Acta Botanica Brasilica](https://acta.botanica.org.br/)
 
 Uma revisão
+
+Online
+
+Mar 2022
+
+### [Conservation Science and Practice](https://conbio.onlinelibrary.wiley.com/journal/25784854) 
+
+Uma revisão
+
+Online
+
+Out 2021
+
+### [Frontiers in Ecology and Evolution](https://www.frontiersin.org/journals/ecology-and-evolution)
+
+Três revisão
 
 Online
 
@@ -421,6 +352,156 @@ Online
 
 2019 - 2020
 
+
+Participação em bancas {data-icon=users} 
+--------------------------------------------------------------------------------
+
+
+### Modelagem de nicho ambiental de espécies vegetais da Caatinga como ferramenta para avaliação dos impactos das mudanças climáticas e do progresso das ods’s 13 e 15 no bioma semiárido brasileiro
+
+**Defesa de Mestrado**. Discente: Lucas Peixoto Teixeira <br>
+Orientador: Marcelo Freire Moro
+
+[UFC](http://www.prodema.ufc.br/index.php/pt-br/), Brasil
+
+Abr 2022
+
+### Leave out or put in - selecting input data to improve ecological niche models applied to conservation and climate change analysis: an approach using the Atlantic Goliath Grouper, Epinephelus itajara (Perciformes)
+
+**Defesa de Mestrado**. Discente: Eduardo Motta Carelli Minsky. Orientadora: Maria Lucia Lorini. 
+
+[UNIRIO](http://www.unirio.br/), Brasil
+
+Jun 2021
+
+
+### Wallacean knowledge shortfall of mammals inthe Central Corridor of the Atlantic Forest
+
+**Trabalho de Conclusão de Curso de Graduação**. Discente: Inês Motta Comarella.
+Orientador: Francisco Candido Cardoso Barreto
+
+[UFES](https://www.ufes.br/), Brasil
+
+Jul 2021
+
+### Impactos no comportamento alimentar de aves no ambiente urbano, semi-urbano e rural no município de Capanema-PA
+
+**Trabalho de Conclusão de Curso de Graduação**. Discente: Luana Gabriela Costa Bezerra.
+Orientador: Breno Barros. 
+
+[UFRA](https://capanema.ufra.edu.br/), Brazil
+
+Mar 2021
+
+### Modelagem de nicho ambiental de espécies vegetais da Caatinga como ferramenta para avaliação dos impactos das mudanças climáticas e do progresso das ods’s 13 e 15 no bioma semiárido brasileiro
+
+**Qualificação de Mestrado**. Discente: Lucas Peixoto Teixeira.
+Orientador: Marcelo Freire Moro. Instituição: UFC
+
+[UFC](http://www.prodema.ufc.br/index.php/pt-br/), Brasil
+
+Fev 2021
+
+### Estratégias para conservação de espécies endêmicas e ameaçadas: Hindsia glabra K.Schum E Aosa uleana (Urb.Gilg) Weigend
+
+**Avaliação de projeto de mestrado**. Discente: Bárbara Piovani Luz Aieta Afonso. Orientadora: Marinez Ferreira de Siqueira
+
+[ENBT-JBRJ](https://www.gov.br/jbrj/pt-br/assuntos/educacao/escola-nacional-de-botanica-tropical-20-anos), Brasil
+
+Ago 2020
+
+### Uso do habitat de aves marinhas e sua associação de forrageamento com boto-cinza (Sotalia guianensis) na Baía de Sepetiba, Rio de Janeiro.
+
+**Avaliação de projetos em ecologia do curso de ciências biológias**. Discente:Leonardo Gomes Pacheco
+de Sá. Orientadora: Maria Alice dos Santos Alves. Co-Orientador: Rodrigo Hipolito Tardin Oliveira. 
+
+[UFRJ](https://ufrj.br/en/), Brasil
+
+Jul 2018
+
+
+## EXPERIÊNCIA com Ensino {data-icon="chalkboard-teacher"}
+
+### Professora convidade| Programa de Pós-Graduação em Biologia Vegetal
+
+Modelos de nicho ecológico, teoria e prática. 40 h | [Webpage do curso](https://classroom.google.com/u/0/r/Mzg4ODE4NDg1NDQx/sort-first-name)  
+<br> 
+
+[UFPE](http://www.ppgbv.com.br/o-programa/), Brasil
+
+Set 2021
+
+### Professora assistente| Escola Nacional de Botânica Tropical
+
+Modelos de nicho ecológico, teoria e prática. 40 h | [Webpage do curso](https://classroom.google.com/u/0/r/MTI2NTU0NzQ0Nzcw/sort-last-name)  
+<br> 
+
+RJ, Brasil
+
+Set 2020
+
+
+### Professora convidade | Instituto Vital Brazil
+
+[II Encontro Nacional sobre Coleções Biológicas e suas Interfaces](https://www.facebook.com/events/uff-instituto-de-geoci%C3%AAncias/ii-encontro-nacional-sobre-cole%C3%A7%C3%B5es-biol%C3%B3gicas-e-suas-interfaces/536496590531975/).<br>
+Tema do curso: Modelos de nicho ecológico, teoria e prática. 6 h 
+
+[IVB-RJ](http://www.vitalbrazil.rj.gov.br/), Brasil
+
+Fev 2020
+
+### Professora assistente| Pontifícia Universidade Católica do Rio de Janeiro
+
+Modelos de nicho ecológico, teoria e prática. 40 h 
+<br> 
+Ferramentas públicas para análises espaciais. 40 h 
+
+[PUC-RJ](https://www.puc-rio.br/index.html), Brasil
+
+2019 - 2020
+
+
+### Professora convidada | Universidade Veiga de Almeida
+
+Modelos de nicho ecológico e distribuição potencial de espécies aplicados para
+estudos biogeográficos. 3 h 
+<br> 
+Modelos de nicho ecológico usando o pacote [modelR](https://github.com/Model-R/modleR). 40 h 
+
+[UVA-RJ](https://www.uva.br/), Brasil
+
+2018 - 2019
+
+### Professora convidada | Universidade Estácio de Sá
+
+Explorando dados bióticos e abióticos para modelos de nicho ecológicos sob diferentes cenários de mudanças climáticas. 3 h
+
+[UNESA-RJ](https://estacio.br/), Brasil
+
+2018 - 2019
+
+
+### Professora convidada | Universidade Federal Rural da Amazônia 
+
+Introdução ao Sistema de Informação Geográfica (SIG). 12 h
+<br> 
+Dados para modelos de nicho ecológico. 12 h
+
+[UFRA-PA](https://novo.ufra.edu.br/), Brasil
+
+2017 - 2018
+
+
+### Professora | [Dinamica Natural](https://dinamicanatural.wixsite.com/dinamicanatural?fbclid=IwAR0wlHd4RJfVTIXYILMmaQILdbT6JdWfq1S-kpNH1mbinJ_EMrsvMe5xpVc)
+
+Professora de Ciências para Ensino fundamental e médio
+
+RJ, Brasil
+
+2015 - 2017
+
+<br>
+<br>
 
 Orientações {data-icon=user-friends} 
 --------------------------------------------------------------------------------
@@ -458,54 +539,6 @@ RJ, Brasil
 
 2018
 
-
-Participação em bancas {data-icon=users} 
---------------------------------------------------------------------------------
-
-
-### Wallacean knowledge shortfall of mammals inthe Central Corridor of the Atlantic Forest
-
-**Trabalho de Conclusão de Curso de Graduação**. Discente: Inês Motta Comarella.
-Orientador: Francisco Candido Cardoso Barreto. Instituição: UFES
-
-ES, Brazil
-
-2021
-
-### Impactos no comportamento alimentar de aves no ambiente urbano, semi-urbano e rural no município de Capanema-PA
-
-**Trabalho de Conclusão de Curso de Graduação**. Discente: Luana Gabriela Costa Bezerra.
-Orientador: Breno Barros. Instituição: UFRA
-
-PA, Brazil
-
-2021
-
-### Modeling species dis-tribution of plant species as tool for assessing the impacts of climate changes andprogress of Sustainable Development Goals (SDGs) 13 and 15 in Caatinga biome
-
-**Qualificação de Mestrado**. Discente: Lucas Peixoto Teixeira.
-Orientador: Marcelo Freire Moro. Instituição: UFC
-
-CE, Brazil
-
-2021
-
-### Estratégias para conservação de espécies endêmicas e ameaçadas: Hindsia glabra K.Schum E Aosa uleana (Urb.Gilg) Weigend
-
-**Avaliação de projeto de mestrado**. Discente: Bárbara Piovani Luz Aieta Afonso. Orientadora: Marinez Ferreira de Siqueira. Instituição: ENBT/JBRJ
-
-RJ, Brazil
-
-2020
-
-### Uso do habitat de aves marinhas e sua associação de forrageamento com boto-cinza (Sotalia guianensis) na Baía de Sepetiba, Rio de Janeiro.
-
-**Avaliação de projetos em ecologia do curso de ciências biológias**. Discente:Leonardo Gomes Pacheco
-de Sá. Orientadora: Maria Alice dos Santos Alves. Co-Orientador: Rodrigo Hipolito Tardin Oliveira. Instituição: UFRJ
-
-RJ, Brazil
-
-2018
 
 
 Palestras & Divulgação científica {data-icon="bullhorn"}
@@ -581,6 +614,71 @@ GO, Brazil
 
 2018
 
+
+## EDUCAÇÃO COMPLEMENTAR {data-icon="book"}
+
+### R para ciência de dados II
+
+[<i class="fa fa-meetup"></i>](https://curso-r.github.io/202111-r4ds-2/) Este curso visa aprofundar os conceitos essenciais de programação em R for Data Science. Técnicas avançadas de manipulação de dados de problemas reais de análise de dados, incluindo textos e datas, e conceitos de programação funcional.. 18 h
+
+Online 
+
+Nov 2021- Jan 2022
+
+### Flexdashboard: Painéis interativos utilizando R
+
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-goiania/events/277628997/)
+Analisar. Compartilhar. Reproduzir. Seus dados contam uma história.
+Conte com R Markdown & Flexdashboard. Transforme suas análises em
+documentos, relatórios, apresentações e painéis de alta qualidade.
+
+Online
+
+2021
+
+### Manejo de tablas con {dplyr}
+
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/277554926/)
+Repasaremos las principales funciones de dplyr y utilizaremos
+inner_join, left_join, full-join y otros más para el manejo de tablas.
+
+Online
+
+2021
+
+### Expresiones regulares para la limpieza y transformación de datos
+
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-talca/events/276426201/)
+Este taller tiene por objetivo que sus participantes se familiaricen con
+el uso de expresiones regulares (conocidas también como "regex").
+Específicamente, abordaremos el potencial que tienen como parte del
+proceso de limpieza y transformación de datos usando paquetes del
+Tidyverse.
+
+Online
+
+2021
+
+### Open Life Science program
+
+[OLS-2](https://openlifesci.org/ols-2). Training for early stage
+researchers and young leaders interested in furthering their Open
+Science skills.
+
+Online
+
+2020
+
+### Escrevendo manuscritos acadêmicos usando RMarkdown
+
+[Webpage <i class="fa fa-meetup"></i>](https://www.meetup.com/pt-BR/rladies-rio/events/273511481/)
+Esta oficina vai mostrar os diferentes passos e ferramentas para
+escrever manuscritos acadêmicos ou relatórios técnicos de forma
+automatizada e reprodutível usando R e rmarkdown.
+
+Online
+
+2020
 
 ::: {.aside}
 
