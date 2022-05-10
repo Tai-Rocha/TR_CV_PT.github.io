@@ -153,25 +153,38 @@ Bragança, PA- Brasil
 
 ## Experiência profissional | Pesquisa {data-icon="laptop"}
 
+### Pequisadora de pós-doutorado 
+
+Impactos das mudanças globais sobre a biodiversidade brasileira e os serviços ecossistêmicos
+
+UFMG, Brasil
+
+Maio 2022 - Atual
+
+### Pesquisadora convidada <br> [Laboratório do Dr. Xiao Feng, Department of Geography, Florida State University](https://lab.fengxiao.info/group-members) 
+
+Colaboração em pesquisas sobre biodiversidade e mudanças globais.<br> Desenvolvimento de pacote R para dados de biodiversidade 
+ 
+Tallahassee, FL
+
+Nov 2021 - Atual
+
+
+### Consultora/Pesquisadora em Biodiversidade no [CNCFlora](http://cncflora.jbrj.gov.br/portal)
+
+[IUCN Green Status](https://www.iucn.org/commissions/species-survival-commission/resources/iucn-green-status-species) para 10 espécies ameaçadas do Cerrado Brasileiro.<br> O Estado Verde da IUCN classifica as espécies em nove Categorias de Recuperação de Espécies, indicando até que ponto as espécies estão esgotadas ou recuperadas em comparação com seus níveis populacionais históricos. Cada avaliação do Green Status mede o impacto da conservação passada em uma espécie, a dependência de uma espécie de suporte contínuo, quanto uma espécie pode ganhar com a ação de conservação nos próximos dez anos e o potencial para se recuperar no próximo século.
+
+Jardim Botânico-RJ, Brasil
+
+Ago 2019 - Mar 2021
+
 ### United Nations Volunteers <br> [UN Online Volunteers](https://www.onlinevolunteering.org/en)
 
 Research Support for an Automated Analysis of Sustainable Development Goals | [Webpage <i class="fa fa-google"></i>](https://www.osdg.ai/)
 
 United Nations
 
-2021 - Present
-
-### Floresta nos diferentes cenários de "caminhos socioeconômicos compartilhados"(SSPs)- Pesquisa independente
-
-[Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Forest_Scenarios.github.io)
-Avaliação quantitativa da categoria de florestas da base de dados
-[GCAM-Demeter](https://data.pnnl.gov/dataset/13192), que atualmente
-disponibiliza dados globais de uso e cobertura do solo com a maior
-resolução espacial para projeções futuras (2015 a 2100)
-
-Home officie
-
-2021 - Present
+Jun 2021 - Set 2021
 
 ### Pequisadora de pós-doutorado pelo programa [Modelagem do Sistema Terrestre](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/formacao-de-recursos-humanos-em-areas-estrategicas/programa-de-desenvolvimento-de-modelagem-do-sistema-terrestre) |Supervisão: [Marinez F.Siqueira](https://scholar.google.com.br/citations?user=Faiq46QAAAAJ&hl=en)
 
@@ -193,7 +206,7 @@ for Conservation of Nature (IUCN)<br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Ferns-and-lycophytes)
 Diversidade de samambaias e licófitas da Floresta da Tijuca<br> <br>
 
-RJ, Brasil
+Jardim Botânico-RJ, Brasil
 
 2019 - 2021
 
@@ -214,7 +227,7 @@ Amazônia e Mata Atlântica ao longo do tempo usando modelos de nicho de
 aves com distribuição disjunta para testar hipóteses dos possíveis
 caminhos de conexões<br> <br>
 
-RJ- Brasil
+UFRJ- Brasil
 
 2017 - 2019
 
