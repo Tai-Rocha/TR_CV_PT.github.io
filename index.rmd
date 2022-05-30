@@ -454,7 +454,7 @@ RJ, Brasil
 Set 2020
 
 
-### Professora convidade | Instituto Vital Brazil
+### Professora convidada | Instituto Vital Brazil
 
 [II Encontro Nacional sobre Coleções Biológicas e suas Interfaces](https://www.facebook.com/events/uff-instituto-de-geoci%C3%AAncias/ii-encontro-nacional-sobre-cole%C3%A7%C3%B5es-biol%C3%B3gicas-e-suas-interfaces/536496590531975/).<br>
 Tema do curso: Modelos de nicho ecológico, teoria e prática. 6 h 
@@ -562,13 +562,21 @@ Palestras & Divulgação científica {data-icon="bullhorn"}
 Recentemente criei um [blog](https://tainaweb-en.netlify.app/) com objetivo de compartilhar diferentes conteúdos sobre ciência, desde divulgação científica  até tutoriais.:::
 :::
 
+### VI Seminário Internacional de Estatística com R
+
+[VI SER](https://www.youtube.com/watch?v=bxzxpL5B-g8&t=7312s) rgee: um pacote R para o uso do Google Earth Engine| Participação como Palestrante.
+
+Online
+
+Maio 2022
+
 ### Global land-use and land-cover data: historical, current and future scenarios
 
 Apresentação no programa [OLS-2](https://openlifesci.org/ols-2/projects-participants/#participants)\|[Slides](https://tai-rocha.github.io/OLS_2_Tai-Rocha.github.io/#1)
 
 Online
 
-2020
+Dez 2020
 
 
 ### Ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo
@@ -577,7 +585,7 @@ Curadora da semana para o página de divulgação científica [Biodiversidade em
 
 Online
 
-2020
+Ago 2020
 
 ### Forum of Rede Nacional de Ensino e Pesquisa
 
@@ -585,7 +593,7 @@ Online
 
 DF, Brazil
 
-2019
+Set 2019
 
 
 Eventos {data-icon="calendar-check-o"}
@@ -597,26 +605,16 @@ Eventos {data-icon="calendar-check-o"}
 
 <!-- ``` -->
 
-### V International Seminar on Statistics with R
 
-[V SER](http://ser.uff.br/) event was recognized by the R Foundation
-(2018) for its pioneering in Latin America in bringing together an
-expressive number of R users\| Participation as a listener.
+### V Seminário Internacional de Estatística com R
+
+[V SER](http://ser.uff.br/) evento foi reconhecido pela Fundação R
+(2018) por seu pioneirismo na América Latina em reunir um
+um número expressivo de usuários de R| Participação como ouvinte.
 
 Online
 
-2021
-
-### Forum of Rede Nacional de Ensino e Pesquisa
-
-[RNP
-2019](https://www.rnp.br/en/news/challenges-digital-transformation-teaching-and-research-will-lead-debates-2019-rnp-forum).
-Challenges of digital transformation in teaching and research will lead
-debates at 2019 RNP Forum | Participation as Guest speaker.
-
-DF, Brazil
-
-2019
+Maio 2021
 
 
 ### Workshop [Resgate Evolutivo](https://www.eecbio.ufg.br/p/22558-oficinas-de-pesquisa-workshops).
@@ -625,7 +623,7 @@ Neste workshop foram discutidos: 1) o conceito de resgate evolutivo e os modelos
 
 GO, Brazil
 
-2018
+Mar 2018
 
 
 ## EDUCAÇÃO COMPLEMENTAR {data-icon="book"}
@@ -647,7 +645,7 @@ documentos, relatórios, apresentações e painéis de alta qualidade.
 
 Online
 
-2021
+Mar 2021
 
 ### Manejo de tablas con {dplyr}
 
@@ -657,7 +655,7 @@ inner_join, left_join, full-join y otros más para el manejo de tablas.
 
 Online
 
-2021
+Fev 2021
 
 ### Expresiones regulares para la limpieza y transformación de datos
 
@@ -670,7 +668,7 @@ Tidyverse.
 
 Online
 
-2021
+Fev 2021
 
 ### Open Life Science program
 
@@ -691,7 +689,7 @@ automatizada e reprodutível usando R e rmarkdown.
 
 Online
 
-2020
+Set 2020
 
 ::: {.aside}
 
