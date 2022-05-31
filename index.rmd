@@ -559,7 +559,7 @@ Palestras & Divulgação científica {data-icon="bullhorn"}
 
 
 ::: {.aside}
-Recentemente criei um [blog](https://tainaweb-en.netlify.app/) com objetivo de compartilhar diferentes conteúdos sobre ciência, desde divulgação científica  até tutoriais.:::
+Tenho um [blog](https://tainaweb-en.netlify.app/) para compartilhar diferentes conteúdos sobre ciência, desde divulgação científica até tutoriais.:::
 :::
 
 ### VI Seminário Internacional de Estatística com R
