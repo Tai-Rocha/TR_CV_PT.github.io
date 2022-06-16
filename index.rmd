@@ -174,7 +174,7 @@ Nov 2021 - Atual
 
 ### Consultora/Pesquisadora em Biodiversidade no [CNCFlora](http://cncflora.jbrj.gov.br/portal)
 
-[IUCN Green Status](https://www.iucn.org/commissions/species-survival-commission/resources/iucn-green-status-species) para 10 espécies ameaçadas do Cerrado Brasileiro.<br> O Estado Verde da IUCN classifica as espécies em nove Categorias de Recuperação de Espécies, indicando até que ponto as espécies estão esgotadas ou recuperadas em comparação com seus níveis populacionais históricos. Cada avaliação do Green Status mede o impacto da conservação passada em uma espécie, a dependência de uma espécie de suporte contínuo, quanto uma espécie pode ganhar com a ação de conservação nos próximos dez anos e o potencial para se recuperar no próximo século. Usamos modelos preditivos de nicho de espécies e distribuição potencial em cenários de mudanças climáticas e dados de uso da terra de Mapbiomas (https://mapbiomas.org/en) para inferir métricas de Recuperação de Espécies.
+[IUCN Green Status](https://www.iucn.org/commissions/species-survival-commission/resources/iucn-green-status-species) para 10 espécies ameaçadas do Cerrado Brasileiro.<br> O Estado Verde da IUCN classifica as espécies em nove Categorias de Recuperação de Espécies, indicando até que ponto as espécies estão esgotadas ou recuperadas em comparação com seus níveis populacionais históricos. Cada avaliação do Green Status mede o impacto da conservação passada em uma espécie, a dependência de uma espécie de suporte contínuo, quanto uma espécie pode ganhar com a ação de conservação nos próximos dez anos e o potencial para se recuperar no próximo século. Usamos modelos preditivos de nicho de espécies e distribuição potencial em cenários de mudanças climáticas futuras com dados de uso da terra de Mapbiomas (https://mapbiomas.org/en) para inferir métricas de Recuperação de Espécies.
 
 Jardim Botânico-RJ, Brasil
 
@@ -200,8 +200,7 @@ Variação climática na distribuição de *Syzygiella rubricaulis*
 Primeiro estudo de diversidade de briófitas das montanhas da Amazônia
 brasileira<br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/ENM_Dimorphandra-wilsonii-Rizzini)
-Modelos preditivos de nicho ecológico e de distribuição da espécies para *Dimorphandra
-wilsonii*(Fabaceae) apresentado no plano de atividades trianuais do
+Modelos preditivos de nicho ecológico e de distribuição da espécies *Dimorphandra wilsonii* (Fabaceae) apresentado no plano de atividades trianuais do
 Brazilian Plant Red List Authority membro do Plant Conservation Commitee
 entre 2017-2020 e do Species Survival Comission da International Union
 for Conservation of Nature (IUCN)<br> <br>
@@ -221,9 +220,9 @@ and future scenarios<br> <br>
 Modelos preditivos de nicho para espécie *Carpornis melanocephala* (Passeriformes:
 Cotingidae) no estado do Rio de Janeiro State,Brazil<br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Vole)
-Modelos preditivos de nicho para espécie de roedores (voles) <br> <br>
+Modelos preditivos de nicho para espécies de roedores (Voles) <br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Disjoint_birds_AM_AF)
-Modelos preditivos de aves com distribuição disjunta entre as florestas da Amazônia e Mata Atlântica. Teste de hipóteses das possíveis conexões entre essas florestas ao longo do tempo<br> <br>
+Modelos preditivos de aves com distribuição disjunta entre as florestas da Amazônia e Mata Atlântica. Teste de hipóteses das possíveis conexões entre essas florestas ao longo do tempo <br> <br>
 
 UFRJ- Brasil
 
