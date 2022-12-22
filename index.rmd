@@ -155,11 +155,11 @@ Bragança, PA- Brasil
 
 ## Experiência profissional | Pesquisa {data-icon="laptop"}
 
-### Pequisadora de pós-doutorado 
+### Pequisadora de pós-doutorado <br>[Programa de Pesquisa em Biodiversidade (PPBio)](https://biologiadaconservacao.com.br/ppbio) 
 
-Impactos das mudanças globais sobre a biodiversidade brasileira e os serviços ecossistêmicos
+Impactos das mudanças globais sobre a biodiversidade brasileira e os serviços ecossistêmicos. <br/> Atividade principal: Compilação de dados gerados pelo programa 
 
-UFMG, Brasil
+Brasil
 
 Maio 2022 - Atual
 
@@ -321,6 +321,22 @@ Set 2021
 
 Revisão de Periódicos {data-icon="file-contract"}
 --------------------------------------------------------------------------------
+
+### [PeerJ](https://peerj.com/)
+
+One review
+
+Online
+
+Dez 2022
+
+### [Ecography](https://www.ecography.org/)
+
+Uma revisão
+
+Online
+
+Set 2022
 
 ### [Acta Botanica Brasilica](https://acta.botanica.org.br/)
 
