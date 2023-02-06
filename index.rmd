@@ -123,8 +123,12 @@ knitr::include_graphics("images/CV_profile.jpg")
 ## Tainá Rocha {#title}
 
 ::: {style="text-align: justify"}
-Sou pesquisadora dos padrões de distribuição da biodiversidade, com enfoque nos impactos de mudanças globais (mudanças climáticas e de uso e cobertura do solo). Meus interesses e trabalhos recentes são: **1.** Análises de dados climáticos e dados de uso e cobertura do solo em diferentes cenários de mudanças climáticas, **2.** Biodiversidade, **3.** Modelos preditivos de nicho e distribuição potencial de espécies, **4.** Análises espaciais com SIG, **5.** Bioinformática, Linguagem R, Google Earth Engine, etc. Uso ferramentas, bases dados e plataformas de código aberto.Tenho interesse em boas práticas da ciência aberta, bons fluxos de trabalho, reprodutibilidade e princípios FAIR.. <br>
-[Versão em inglês disponível aqui](https://tai-rocha.github.io/Tai-Rocha_CV.github.io/) 
+Pesquisadora e cientista de dados com enfoque nos impactos de mudanças
+globais (mudanças climáticas e de uso e cobertura da terra). Meus interesses e
+trabalhos recentes são: **1.** Análises de dados climáticos e dados de uso e
+cobertura da terra em diferentes cenários/projeções, **2.** Análises de dados de
+biodiversidade, **3.** Modelos preditivos **4.** Análises espaciais com SIG, **5.** Bioinformática, Linguagem R, Google Earth Engine, etc. <br/> Uso ferramentas, bases dados e plataformas de código aberto.Tenho interesse em boas práticas da ciência aberta, bons fluxos de trabalho, reprodutibilidade e princípios FAIR. <br>
+[Versão em inglês disponível](https://tai-rocha.github.io/Tai-Rocha_CV.github.io/) 
 :::
 
 ## EDUCAÇÃO {data-icon="user-graduate" data-concise="true"}
@@ -157,7 +161,7 @@ Bragança, PA- Brasil
 
 ### Pequisadora de pós-doutorado <br>[Programa de Pesquisa em Biodiversidade (PPBio)](https://biologiadaconservacao.com.br/ppbio) 
 
-Impactos das mudanças globais sobre a biodiversidade brasileira e os serviços ecossistêmicos. <br/> Atividade principal: Compilação de dados gerados pelo programa 
+[Repo <i class="fa fa-github"></i>](https://github.com/PPBio) Impactos das mudanças globais sobre a biodiversidade brasileira e nos serviços ecossistêmicos. <br/> Atividades: 1- Compilação de dados gerados pelo programa. 2- Avaliação do uso e cobertura da terra ([coleção 7 mapbiomas](https://mapbiomas.org/colecoes-mapbiomas-1?cama_set_language=pt-BR)) para os sítios PPBIo.
 
 Brasil
 
@@ -165,16 +169,17 @@ Maio 2022 - Atual
 
 ### Pesquisadora convidada <br> [Laboratório do Dr. Xiao Feng, Department of Geography, Florida State University](https://lab.fengxiao.info/group-members) 
 
-Colaboração em pesquisas sobre biodiversidade e mudanças globais.<br> Desenvolvimento de pacote R para dados de biodiversidade 
+Colaboração em pesquisas sobre biodiversidade e mudanças globais.<br> [Repo <i class="fa fa-github"></i>](https://github.com/BiogeographyLab/gridder.github.io) Desenvolvimento de pacote R para dados de biodiversidade. <br/>
+Vencedores do prêmino [GBIF Ebbe Nielsen Challenge 2022](https://www.gbif.org/news/6J94JrRZtDCPhUZMMiTALq/gridder-and-bdc-share-top-honors-in-2022-gbif-ebbe-nielsen-challenge) de inovações em dados abertos para a biodiversidade 
  
-Tallahassee, FL
+Remoto
 
 Nov 2021 - Atual
 
 
 ### Consultora/Pesquisadora em Biodiversidade no [CNCFlora](http://cncflora.jbrj.gov.br/portal)
 
-[IUCN Green Status](https://www.iucn.org/commissions/species-survival-commission/resources/iucn-green-status-species) para 10 espécies ameaçadas do Cerrado Brasileiro.<br> O Estado Verde da IUCN classifica as espécies em nove Categorias de Recuperação de Espécies, indicando até que ponto as espécies estão esgotadas ou recuperadas em comparação com seus níveis populacionais históricos. Cada avaliação do Green Status mede o impacto da conservação passada em uma espécie, a dependência de uma espécie de suporte contínuo, quanto uma espécie pode ganhar com a ação de conservação nos próximos dez anos e o potencial para se recuperar no próximo século. Usamos modelos preditivos de nicho de espécies e distribuição potencial em cenários de mudanças climáticas futuras com dados de uso da terra de Mapbiomas (https://mapbiomas.org/en) para inferir métricas de Recuperação de Espécies.
+[Repo <i class="fa fa-github"></i>](https://github.com/IUCN-Green-Status-CNCFlora) [IUCN Green Status](https://www.iucn.org/commissions/species-survival-commission/resources/iucn-green-status-species) para 10 espécies ameaçadas do Cerrado brasileiro para teste de métricas de recuperação de espécie.<br> Uso de modelos preditivos de nicho de espécies e distribuição potencial em cenários atuais e de mudanças climáticas futuras. Pós processamento dos modelos com dados de uso e cobertura da terra da [coleção 6 mapbiomas](https://mapbiomas.org/colecoes-mapbiomas-1?cama_set_language=pt-BR).
 
 Jardim Botânico-RJ, Brasil
 
@@ -218,7 +223,7 @@ Global land-use and land-cover data for ecologists: historical, current
 and future scenarios<br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Carpornis_melanocephala)
 Modelos preditivos de nicho para espécie *Carpornis melanocephala* (Passeriformes:
-Cotingidae) no estado do Rio de Janeiro State,Brazil<br> <br>
+Cotingidae) no estado do Rio de Janeiro State, Brazil. Pós processamento dos modelos com coleção 4 mapbiomas <br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Vole)
 Modelos preditivos de nicho para espécies de roedores (Voles) <br> <br>
 [Repo <i class="fa fa-github"></i>](https://github.com/Tai-Rocha/Disjoint_birds_AM_AF)
