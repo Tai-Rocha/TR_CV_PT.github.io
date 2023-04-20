@@ -278,7 +278,7 @@ UFRJ- Brasil
 
 <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/Tai_Rocha_)
 
-<i class="fas fa-blog"></i> [Website](https://github.com/Tai-Rocha)
+<i class="fas fa-blog"></i> [Website](https://tainarocha.netlify.app/)
 :::
 
 Publicações {data-icon=file-text}
